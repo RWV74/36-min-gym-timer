@@ -22,7 +22,5 @@ jobs:
       - name: Start Docker Compose
         run: |
             docker compose up -d
-            export DISPLAY=:0
-            firefox --kiosk http://localhost
-            # sudo reboot
+            sudo reboot
             # nohup bash -c "sleep 10 && sudo reboot" >/dev/null 2>&1 &
