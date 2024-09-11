@@ -1,23 +1,26 @@
 name: Run Nginx
 
 on:
-    push:
-        branches:
-            - main
+  push:
+    branches:
+      - main
 
 jobs:
-    build:
-        runs-on: self-hosted
+  build:
+    runs-on: self-hosted
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-        steps:
-            - name: Checkout code
-                uses: actions/checkout@v2
+      - name: Install Docker
+        run: |
+            # sudo apt-get remove update-manager
+            # sudo apt-get --purge remove lubuntu-update-notifier
+            sudo apt-get update
+            sudo apt-get upgrade -y && sudo apt-get dist-upgrade -y
+            sudo apt-get install -y docker.io
 
-            - name: Install Docker
-                run: |
-                    sudo apt-get update
-                    sudo apt-get install -y docker.io
-
-            - name: Start Docker Compose
-                run: |
-                    docker-compose up -d
+      - name: Start Docker Compose
+        run: |
+            docker-compose up -d
+            sudo reboot
