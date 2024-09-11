@@ -16,6 +16,7 @@ jobs:
         run: |
             # sudo apt-get remove update-manager
             # sudo apt-get --purge remove lubuntu-update-notifier
+            sudo snap refresh snapd-desktop-integration --stable
             sudo apt-get update
             sudo apt-get upgrade -y && sudo apt-get dist-upgrade -y
 
