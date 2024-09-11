@@ -7,7 +7,3 @@
 [Investigate page updates](https://github.com/RWV74/36-min-gym-timer/actions)
 
 [Install agent on the server](https://github.com/RWV74/36-min-gym-timer/settings/actions/runners/new?arch=x64&os=linux)
-
-Run locally:
-`docker compose up -d --build`
-

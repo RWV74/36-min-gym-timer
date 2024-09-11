@@ -1,3 +1,6 @@
+Run locally:
+`docker compose up -d --build`
+
 https://askubuntu.com/questions/218755/how-to-disable-the-update-manager-popup
 
 https://askubuntu.com/questions/48321/how-do-i-start-applications-automatically-on-login
