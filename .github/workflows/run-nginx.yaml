@@ -22,6 +22,5 @@ jobs:
       - name: Start Docker Compose
         run: |
             docker compose up -d
-            echo 'until curl http://localhost; do echo "Retrying in 5 seconds..."; sleep 5; done" > cat ~/Desktop/wait-for-nginx.sh'
-            sudo reboot
-            # nohup bash -c "sleep 20 && sudo reboot" >/dev/null 2>&1 &
+            # sudo reboot
+            # nohup bash -c "sleep 10 && sudo reboot" >/dev/null 2>&1 &
