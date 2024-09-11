@@ -103,6 +103,12 @@
     </div>
 
   <script>
+    // Refresh the page if '/' is not reachable
+    fetch('/')
+      .catch(() => {
+        location.reload();
+      });
+
     let timerDisplay = document.getElementById('timer');
     let isThirtySeconds = true;
 
@@ -135,13 +141,13 @@
       startTimer(29); // Start with 30 seconds
     };
     // Refresh the page at midnight
-    const now = new Date();
-    const midnight = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 1, 0, 0, 0);
-    const timeUntilMidnight = midnight - now;
+    // const now = new Date();
+    // const midnight = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 1, 0, 0, 0);
+    // const timeUntilMidnight = midnight - now;
 
-    setTimeout(function() {
-      location.reload();
-    }, timeUntilMidnight);
+    // setTimeout(function() {
+    //   location.reload();
+    // }, timeUntilMidnight);
     //setTimeout(function() {
     //  location.reload();
     // }, 5000);
