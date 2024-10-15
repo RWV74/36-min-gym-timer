@@ -84,51 +84,13 @@
   </style>
 </head>
 <body>
-<!-- <div class="timer-container">
-    <div id="timer">ODPOCZNIJ</div>
-</div> -->
-  <!-- <div class="text-content">
-    <div class="instructions" id="title-content">Pierwsze ćwiczenie zaczynaj równo z minutą</div>
-  </div> -->
 <div class="container"></div>
     <div class="left" style="display: flex; justify-content: center; align-items: center;">
         <img id="dynamic-image" src="">
     </div>
 </div>
-    <!-- <div class="text-content">
-      <div class="subtext" id="subtext">
-        <p style="color: #436436;">Ćwiczymy odliczanie 60s do 0.</p><p style="color: #BB0A21;">Zmiana maszyn odliczanie na czerwono 30s do 0.</p>
-      </div>
-    </div> -->
 
   <script>
-    let timerDisplay = document.getElementById('timer');
-    let isThirtySeconds = true;
-
-    function startTimer(duration) {
-      let timer = duration, minutes, seconds;
-      let interval = setInterval(() => {
-        seconds = timer % 60;
-
-        seconds = seconds < 10 ? '0' + seconds : seconds;
-        if (seconds == '00') {
-          timerDisplay.textContent = isThirtySeconds ? 'START' : 'ODPOCZNIJ';
-        } else {
-            timerDisplay.textContent = seconds + " sekund";
-        }
-
-        if (--timer < 0) {
-          clearInterval(interval);
-          isThirtySeconds = !isThirtySeconds;
-        if (isThirtySeconds) {
-            timerDisplay.style.color = '#BB0A21';
-        } else {
-            timerDisplay.style.color = '#436436';
-        }
-          startTimer(isThirtySeconds ? 29 : 59); // 30 seconds or 1 minutes
-        }
-      }, 1000);
-    }
 
     window.onload = function() {
       startTimer(29); // Start with 30 seconds
@@ -157,21 +119,17 @@ async function loadYamlFile() {
 function rotateImages(images) {
   let currentIndex = 0;
   const imgElement = document.getElementById('dynamic-image');
-  const titleContent = document.getElementById('title-content');
-  const subtextContent = document.getElementById('subtext');
   
 
   function updateContent() {
       imgElement.src = images[currentIndex].photo;
-      currentIndex = (currentIndex + 1) % images.length;
-      titleContent.innerHTML = images[currentIndex].title || 'Pierwsze ćwiczenie zaczynaj równo z minutą';
-  }
+      currentIndex = (currentIndex + 1) % images.length;  }
 
   // Set the initial image
   updateContent();
 
-  // Change image every 5 seconds
-  setInterval(updateContent, 5000);
+  // Change image every 10 seconds
+  setInterval(updateContent, 10000);
 }
 
 // Load the YAML file and start rotating images
