@@ -1,95 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Countdown Timer</title>
-  <style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
 
-    @font-face {
-      font-family: 'GT Walsheim Thin Oblique';
-      src: url('fonts/GT-Walsheim-Thin-Oblique-Trial-BF651b7fc66311a.otf') format('opentype');
-    }
-
-    html * {cursor:none!important}
-
-    body {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      background-color: #f3f4f6;
-      object-fit: cover;
-      cursor: none;
-    }
-
-      
-    .container {
-      margin-bottom: 50px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      animation: fadeIn 1s ease-in-out; 
-    }
-    @keyframes fadeIn {
-        0% { opacity: 0; }
-        100% { opacity: 1; }
-      }
-    .timer-container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        font-family: 'GT Walsheim Thin Oblique', sans-serif;
-        display: flex;
-        justify-content: center;
-    }
-    #timer {
-      font-size: 15rem;
-      font-weight: bold;
-      color: #BB0A21; 
-      margin-top: 10px;
-    }
-
-    img {
-      height: 420px;
-      margin-right: 20px;
-      border-radius: 30px;
-        box-shadow: 20px 20px 100px rgba(0, 0, 0, 0.5);
-        object-fit: cover;
-    }
-
-    .text-content {
-      color: #765e42;
-      margin: auto;
-      width: 70%;
-      justify-content: center;
-      align-items: center;
-      font-family: 'GT Walsheim Thin Oblique', sans-serif;
-    }
-
-    .text-content .instructions {
-      font-size: 3rem;
-      font-weight: 600;
-      margin-bottom: 0px;
-    }
-
-    .text-content .subtext {
-      font-size: 3rem;
-      color: #93A8AC;
-      font-weight: 600;
-    }
-    
-  </style>
+        #dynamic-image {
+          height: 500px;
+          margin-right: 20px;
+          border-radius: 30px;
+          box-shadow: 20px 20px 100px rgba(0, 0, 0, 0.5);
+          object-fit: cover;
+        }
+    </style>
 </head>
 <body>
-<div class="container"></div>
-    <div class="left" style="display: flex; justify-content: center; align-items: center;">
-        <img id="dynamic-image" src="">
-    </div>
-</div>
-
+  <img id="dynamic-image" src="">
   <script>
 
     window.onload = function() {
