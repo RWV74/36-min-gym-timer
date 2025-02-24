@@ -1,261 +1,5 @@
 slides:
 
-  - photo: images/czerwiec_2024/36_minut_grafiki_wieza_01_obuwie.jpg
-    title:
-    subtext:
-    
-  - photo: images/czerwiec_2024/36_minut_grafiki_wieza_05_lokiec.jpg
-    title:
-    subtext:
-
-  - photo: images/czerwiec_2024/36_minut_grafiki_wieza_06_slonce.jpg
-    title:
-    subtext:
-
-  - photo: images/czerwiec_2024/36_minut_grafiki_wieza_07_achilles.jpg
-    title:
-    subtext:
-
-  - photo: images/czerwiec_2024/36_minut_grafiki_wieza_08_jakosc_snu.jpg
-    title:
-    subtext:
-
-  - photo: images/czerwiec_2024/36_minut_grafiki_wieza_09_kosci.jpg
-    title:
-    subtext:
-
-  - photo: images/czerwiec_2024/36_minut_grafiki_wieza_10_wody_smakowe.jpg
-    title:
-    subtext:
-
-  - photo: images/czerwiec_2024/36_minut_grafiki_wieza_11_kleszcze.jpg
-    title:
-    subtext:
-
-  - photo: images/czerwiec_2024/36_minut_grafiki_wieza_12_odwodnienie.jpg
-    title:
-    subtext:
-
-  - photo: images/kwiecień_2024/36_minut_grafiki_wieza_01_mozg.jpg
-    title:
-    subtext:
-
-  - photo: images/kwiecień_2024/36_minut_grafiki_wieza_02_nie-jem-kolacji.jpg
-    title:
-    subtext:
-
-  - photo: images/kwiecień_2024/36_minut_grafiki_wieza_03_aktywnosc.jpg
-    title:
-    subtext:
-
-  - photo: images/kwiecień_2024/36_minut_grafiki_wieza_04_obnizanie-kalorycznosci.jpg
-    title:
-    subtext:
-
-  - photo: images/kwiecień_2024/36_minut_grafiki_wieza_05_niewidzialne-kalorie.jpg
-    title:
-    subtext:
-
-  - photo: images/kwiecień_2024/36_minut_grafiki_wieza_06_cat-cow.jpg
-    title:
-    subtext:
-
-  - photo: images/kwiecień_2024/36_minut_grafiki_wieza_07_nerw-kulszowy.jpg
-    title:
-    subtext:
-
-  - photo: images/kwiecień_2024/36_minut_grafiki_wieza_08_sycace-produkty.jpg
-    title:
-    subtext:
-
-  - photo: images/kwiecień_2024/36_minut_grafiki_wieza_09_9-nawykow.jpg
-    title:
-    subtext:
-
-  - photo: images/kwiecień_2024/36_minut_grafiki_wieza_10_posladki.jpg
-    title:
-    subtext:
-
-  - photo: images/kwiecień_2024/36_minut_grafiki_wieza_leg-extension.jpg
-    title:
-    subtext:
-
-  - photo: images/kwiecień_2024/36_minut_grafiki_wieza_rozgrzewka.jpg
-    title:
-    subtext:
-
-  - photo: images/kwiecień_2024/36_minut_kubek_wieza_01.jpg
-    title:
-    subtext:
-
-  - photo: images/kwiecień_2024/36_minut_kubek_wieza_02.jpg
-    title:
-    subtext:
-
-  - photo: images/kwiecień_2024/36_minut_kubek_wieza_03.jpg
-    title:
-    subtext:
-
-  - photo: images/lipiec_2024/36_minut_grafiki_wieza_01_fizjociekawostka_maly-palec.jpg
-    title:
-    subtext:
-
-  - photo: images/lipiec_2024/36_minut_grafiki_wieza_02_fizjociekawostka_oko.jpg
-    title:
-    subtext:
-
-  - photo: images/lipiec_2024/36_minut_grafiki_wieza_03_fizjociekawostka_zelazo.jpg
-    title:
-    subtext:
-
-  - photo: images/lipiec_2024/36_minut_grafiki_wieza_04_jedna-czekoladka.jpg
-    title:
-    subtext:
-
-  - photo: images/lipiec_2024/36_minut_grafiki_wieza_05_kalorie-na-miescie.jpg
-    title:
-    subtext:
-
-  - photo: images/lipiec_2024/36_minut_grafiki_wieza_06_arbuz.jpg
-    title:
-    subtext:
-
-  - photo: images/lipiec_2024/36_minut_grafiki_wieza_07_czym-zastapic-kawe.jpg
-    title:
-    subtext:
-
-  - photo: images/lipiec_2024/36_minut_grafiki_wieza_08_zadbaj.jpg
-    title:
-    subtext:
-
-  - photo: images/lipiec_2024/36_minut_grafiki_wieza_09_tyjemy.jpg
-    title:
-    subtext:
-
-  - photo: images/lipiec_2024/36_minut_grafiki_wieza_10_poranna-rutyna.jpg
-    title:
-    subtext:
-
-  - photo: images/lipiec_2024/36_minut_grafiki_wieza_11_ile-to-ma-cukru.jpg
-    title:
-    subtext:
-
-  - photo: images/maj_2024/36_minut_grafiki_wieza_01_pokaz-swoj-trening.jpg
-    title:
-    subtext:
-
-  - photo: images/maj_2024/36_minut_grafiki_wieza_02_letni-trening.jpg
-    title:
-    subtext:
-
-  - photo: images/maj_2024/36_minut_grafiki_wieza_03_jak-zmotywowac-sie.jpg
-    title:
-    subtext:
-
-  - photo: images/maj_2024/36_minut_grafiki_wieza_04_wzdety-brzuch.jpg
-    title:
-    subtext:
-
-  - photo: images/maj_2024/36_minut_grafiki_wieza_05_proteinowe-lody.jpg
-    title:
-    subtext:
-
-  - photo: images/maj_2024/36_minut_grafiki_wieza_06_cykl-zdrowia.jpg
-    title:
-    subtext:
-
-  - photo: images/maj_2024/36_minut_grafiki_wieza_07_fizjociekawostka-skora.jpg
-    title:
-    subtext:
-
-  - photo: images/maj_2024/36_minut_grafiki_wieza_08_fizjociekawostka-dlon.jpg
-    title:
-    subtext:
-
-  - photo: images/maj_2024/36_minut_grafiki_wieza_09_koktajl-mango.jpg
-    title:
-    subtext:
-
-  - photo: images/maj_2024/36_minut_grafiki_wieza_10_koktajl-truskawka.jpg
-    title:
-    subtext:
-
-  - photo: images/maj_2024/36_minut_grafiki_wieza_11_koktajl-banan-szpinak.jpg
-    title:
-    subtext:
-
-  - photo: images/maj_2024/36_minut_grafiki_wieza_12_pomysly-na-koktajle.jpg
-    title:
-    subtext:
-
-  - photo: images/sierpień_2024/36_minut_grafiki_wieza_01_male_zmiany.jpg
-    title:
-    subtext:
-
-  - photo: images/sierpień_2024/36_minut_grafiki_wieza_02_male_zmiany.jpg
-    title:
-    subtext:
-
-  - photo: images/sierpień_2024/36_minut_grafiki_wieza_03_5-sposobow_01.jpg
-    title:
-    subtext:
-
-  - photo: images/sierpień_2024/36_minut_grafiki_wieza_04_5-sposobow_02.jpg
-    title:
-    subtext:
-
-  - photo: images/sierpień_2024/36_minut_grafiki_wieza_05_5-sposobow_03.jpg
-    title:
-    subtext:
-
-  - photo: images/sierpień_2024/36_minut_grafiki_wieza_06_5-sposobow_04.jpg
-    title:
-    subtext:
-
-  - photo: images/sierpień_2024/36_minut_grafiki_wieza_07_5-sposobow_05.jpg
-    title:
-    subtext:
-
-  - photo: images/sierpień_2024/36_minut_grafiki_wieza_08_5-sposobow_06.jpg
-    title:
-    subtext:
-
-  - photo: images/sierpień_2024/36_minut_grafiki_wieza_09_darmowe-suplementy.jpg
-    title:
-    subtext:
-
-  - photo: images/sierpień_2024/36_minut_grafiki_wieza_10_4-kluczowe-czynniki.jpg
-    title:
-    subtext:
-
-  - photo: images/sierpień_2024/36_minut_grafiki_wieza_11_jak-dlugo-sie-trawi.jpg
-    title:
-    subtext:
-
-  - photo: images/sierpień_2024/36_minut_grafiki_wieza_12_ciekawostka-treningowa.jpg
-    title:
-    subtext:
-
-  - photo: images/sierpień_2024/36_minut_grafiki_wieza_13_sezonowe-warzywa.jpg
-    title:
-    subtext:
-
-  - photo: images/sierpień_2024/36_minut_grafiki_wieza_14_fizjociekawostka-chrzastka.jpg
-    title:
-    subtext:
-
-  - photo: images/sierpień_2024/36_minut_grafiki_wieza_15_fizjociekawostka-kolano.jpg
-    title:
-    subtext:
-
-  - photo: images/sierpień_2024/36_minut_grafiki_wieza_16_czy-wiesz-ze-tlen.jpg
-    title:
-    subtext:
-
-  - photo: images/sierpień_2024/36_minut_grafiki_wieza_17_czy-wiesz-ze-nos.jpg
-    title:
-    subtext:
-
   - photo: images/wieża wrzesień 2024/36_minut_grafiki_wieza_01_bledy_leg_ext.jpg
     title:
     subtext:
@@ -324,109 +68,6 @@ slides:
     title:
     subtext:
 
-  - photo: images/październik-listopad 2024/01_5_faktow_00.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/02_5_faktow_01.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/03_5_faktow_02.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/04_5_faktow_03.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/05_5_faktow_04.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/06_5_faktow_05.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/07_mrozenie_zywnosci_00.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/08_mrozenie_zywnosci_01_powody.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/09_mrozenie_zywnosci_02_nie-do-mrozenia.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/10_mrozenie_zywnosci_03_mozna-mrozic.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/11_mrozenie_zywnosci_04_jak-dlugo-mrozic.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/12_owoce_ktore_warto_jesc_ze_skorka_01.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/13_owoce_ktore_warto_jesc_ze_skorka_02.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/14_warzywa_ktore_warto_jesc_ze_skorka.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/15_co_pic_na_poprawe_odpornosci.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/16_rozgrzewajace_herbaty.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/17_jak_przechowywac_zywnosc_00.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/18_jak_przechowywac_zywnosc_01_pomidor.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/19_jak_przechowywac_zywnosc_02_suszone_owoce.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/20_jak_przechowywac_zywnosc_03_warzywa_lisciaste.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/21_jak_przechowywac_zywnosc_04_ziemniaki.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/22_jak_przechowywac_zywnosc_05_surowe_mieso.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/23_jak_przechowywac_zywnosc_06_oleje.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/24_jak_przechowywac_zywnosc_07_banany.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/25_jak_przechowywac_zywnosc_08_rzodkiewka.jpg
-    title:
-    subtext:
-
-  - photo: images/październik-listopad 2024/26_jak_przechowywac_zywnosc_09_lodowka.jpg
-    title:
-    subtext:
 
   - photo: images/wieża styczeń 2025/36_minut_grafiki_wieza_01_2025.jpg
     title:
@@ -497,5 +138,69 @@ slides:
     subtext:
 
   - photo: images/wieża styczeń 2025/36_minut_grafiki_wieza_18_stres_co_robic_03_cukier.jpg
+    title:
+    subtext:
+
+  - photo: images/luty 2025/36_minut_grafiki_wieza_01_jakie_badania_00.jpg
+    title:
+    subtext:
+
+  - photo: images/luty 2025/36_minut_grafiki_wieza_02_jakie_badania_01_po_30.jpg
+    title:
+    subtext:
+
+  - photo: images/luty 2025/36_minut_grafiki_wieza_03_jakie_badania_02_po_40.jpg
+    title:
+    subtext:
+
+  - photo: images/luty 2025/36_minut_grafiki_wieza_04_jakie_badania_03_po_50.jpg
+    title:
+    subtext:
+
+  - photo: images/luty 2025/36_minut_grafiki_wieza_05_jakie_badania_04_po_60.jpg
+    title:
+    subtext:
+
+  - photo: images/luty 2025/36_minut_grafiki_wieza_06_jakie_badania_05_po_70.jpg
+    title:
+    subtext:
+
+  - photo: images/luty 2025/36_minut_grafiki_wieza_07_jakie_badania_06_dodatkowo.jpg
+    title:
+    subtext:
+
+  - photo: images/luty 2025/36_minut_grafiki_wieza_08_ile_kalorii.jpg
+    title:
+    subtext:
+
+  - photo: images/luty 2025/36_minut_grafiki_wieza_09_kalorie_w_tlusty_czwartek.jpg
+    title:
+    subtext:
+
+  - photo: images/luty 2025/36_minut_grafiki_wieza_10_1000kcal_w_orzechach.jpg
+    title:
+    subtext:
+
+  - photo: images/luty 2025/36_minut_grafiki_wieza_11_ile_wody.jpg
+    title:
+    subtext:
+
+  - photo: images/luty 2025/36_minut_grafiki_wieza_12_porada_01_szklanka_przy_lozku.jpg
+    title:
+    subtext:
+
+  - photo: images/luty 2025/36_minut_grafiki_wieza_13_porada_02_miej_wode.jpg
+    title:
+    subtext:
+
+  - photo: images/luty 2025/36_minut_grafiki_wieza_14_porada_03_ustaw_przypomnienia.jpg
+    title:
+    subtext:
+
+  - photo: images/luty 2025/36_minut_grafiki_wieza_15_porada_04_dosmaczaj_wode.jpg
+    title:
+    subtext:
+
+  - photo: images/luty 2025/36_minut_grafiki_wieza_16_porada_05_skojarz_wode_z_posilkiem.jpg
     title:
     subtext:
